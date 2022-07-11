@@ -5,5 +5,4 @@ Screenshot of finished work can be seen below:
 
 ![Homework Screenshot](./assets/images/Homework5_Screenshot.png)
 
-The website is deployed here:
- https://bhodge166.github.io/Homework5_Calendar/
+Visit site at [link](https://bhodge166.github.io/Day-Planner/)
